@@ -1,0 +1,196 @@
+[
+  {
+    "id": 1,
+    "name": "Atomic Habits",
+    "title": "An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+    "image": "https://m.media-amazon.com/images/I/91bYsX41DVL.jpg",
+    "category": "Self-Help",
+    "price": 499
+  },
+  {
+    "id": 2,
+    "name": "The Alchemist",
+    "title": "A Fable About Following Your Dream",
+    "image": "https://m.media-amazon.com/images/I/71aFt4+OTOL.jpg",
+    "category": "Fiction",
+    "price": 350
+  },
+  {
+    "id": 3,
+    "name": "Clean Code",
+    "title": "A Handbook of Agile Software Craftsmanship",
+    "image": "https://m.media-amazon.com/images/I/41xShlnTZTL.jpg",
+    "category": "Programming",
+    "price": 899
+  },
+  { 
+    "id": 4,
+    "name": "Essentialism",
+    "title": "The Disciplined Pursuit of Less",
+    "image": "https://down-my.img.susercontent.com/file/sg-11134201-7rdvv-lyfzeasky7zv32",
+    "category": "Time Management",
+    "price": 479
+  },
+  {
+    "id": 5,
+    "name": "Eloquent JavaScript",
+    "title": "A Modern Introduction to Programming",
+    "image": "https://m.media-amazon.com/images/I/91asIC1fRwL.jpg",
+    "category": "Programming",
+    "price": 699
+  },
+  {
+    "id": 6,
+    "name": "The Subtle Art of Not Giving a F*ck",
+    "title": "A Counterintuitive Approach to Living a Good Life",
+    "image": "https://m.media-amazon.com/images/I/71QKQ9mwV7L.jpg",
+    "category": "Self-Help",
+    "price": 429
+  },
+  {
+    "id": 7,
+    "name": "You Can Win",
+    "title": "A Step-by-Step Tool for Top Achievers",
+    "image": "https://tse4.mm.bing.net/th?id=OIP.Ez-9C4vKBIjRrUlMGOz_IAHaHa&pid=Api&P=0&h=220",
+    "category": "Motivation",
+    "price": 299
+  },
+  {
+    "id": 8,
+    "name": "Rich Dad Poor Dad",
+    "title": "What the Rich Teach Their Kids About Money",
+    "image": "https://m.media-amazon.com/images/I/81bsw6fnUiL.jpg",
+    "category": "Finance",
+    "price": 449
+  },
+  {
+    "id": 9,
+    "name": "The Power of Now",
+    "title": "A Guide to Spiritual Enlightenment",
+    "image": "https://tse1.mm.bing.net/th?id=OIP.-Srxx98TPWXPoCwHJCeFhAHaLc&pid=Api&P=0&h=220",
+    "category": "Spirituality",
+    "price": 379
+  },
+  {
+    "id": 10,
+    "name": "Think and Grow Rich",
+    "title": "The Landmark Bestseller Now Revised and Updated for the 21st Century",
+    "image": "https://m.media-amazon.com/images/I/81WcnNQ-TBL.jpg",
+    "category": "Finance",
+    "price": 389
+  },
+  {
+    "id": 11,
+    "name": "The 7 Habits of Highly Effective People",
+    "title": "Powerful Lessons in Personal Change",
+    "image": "https://tse3.mm.bing.net/th?id=OIP.JB136D51ezSdxTk8-1QxUQHaLQ&pid=Api&P=0&h=220",
+    "category": "Self-Help",
+    "price": 499
+  },
+  {
+    "id": 12,
+    "name": "Can't Hurt Me",
+    "title": "Master Your Mind and Defy the Odds",
+    "image": "https://tse3.mm.bing.net/th?id=OIP.UURH5r7CT78hEvKbOPfggAHaIV&pid=Api&P=0&h=220",
+    "category": "Autobiography",
+    "price": 629
+  },
+  {
+    "id": 13,
+    "name": "Ikigai",
+    "title": "The Japanese Secret to a Long and Happy Life",
+    "image": "https://m.media-amazon.com/images/I/71tbalAHYCL.jpg",
+    "category": "Wellness",
+    "price": 299
+  },
+  {
+    "id": 14,
+    "name": "The Psychology of Money",
+    "title": "Timeless Lessons on Wealth, Greed, and Happiness",
+    "image": "https://m.media-amazon.com/images/I/71g2ednj0JL.jpg",
+    "category": "Finance",
+    "price": 479
+  },
+  {
+    "id": 15,
+    "name": "Rework",
+    "title": "Change the Way You Work Forever",
+    "image": "https://tse2.mm.bing.net/th?id=OIP.K8XPVXhGMstgfO_c06U8ogHaLM&pid=Api&P=0&h=220",
+    "category": "Business",
+    "price": 529
+  },
+  
+  {
+    "id": 16,
+    "name": "Eloquent JavaScript",
+    "title": "A Modern Introduction to Programming",
+    "image": "https://eloquentjavascript.net/img/cover.jpg",
+    "category": "Free",
+    "price": 0
+  },
+  {
+    "id": 17,
+    "name": "You Don't Know JS Yet",
+    "title": "Get Started",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1585414018i/52764087.jpg",
+    "category": "Free",
+    "price": 0
+  },
+  {
+    "id": 18,
+    "name": "Learn Python the Hard Way",
+    "title": "A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code",
+    "image": "https://tse4.mm.bing.net/th?id=OIP.rXvQPqF8DDL2M-gSTGx6sQHaJo&pid=Api&P=0&h=220",
+    "category": "Free",
+    "price": 0
+  },
+  {
+    "id": 19,
+    "name": "Automate the Boring Stuff with Python",
+    "title": "Practical Programming for Total Beginners",
+    "image": "https://tse3.mm.bing.net/th?id=OIP.sxfHXW9LFEHR2uhtndooBgHaJy&pid=Api&P=0&h=220",
+    "category": "Free",
+    "price": 0
+  },
+  {
+    "id": 20,
+    "name": "The Rust Programming Language",
+    "title": "The official book on Rust",
+    "image": "https://tse4.mm.bing.net/th?id=OIP.v-2JAJBfh-nU5JA_XlQm9wHaJy&pid=Api&P=0&h=220",
+    "category": "Free",
+    "price": 0
+  },
+  {
+    "id": 21,
+    "name": "Dive Into Python 3",
+    "title": "A hands-on guide to Python 3",
+    "image": "https://ecsmedia.pl/c/dive-into-python-3-b-iext120301166.jpg",
+    "category": "Free",
+    "price": 0
+  },
+  {
+    "id": 22,
+    "name": "Pro Git",
+    "title": "Everything about Git",
+    "image": "https://git-scm.com/images/progit2.png",
+    "category": "Free",
+    "price": 0
+  },
+  {
+    "id": 23,
+    "name": "The Linux Command Line",
+    "title": "A Complete Introduction",
+    "image": "https://m.media-amazon.com/images/I/81wbe1r1nTL._SL1500_.jpg",
+    "category": "Free",
+    "price": 0
+  },
+  {
+    "id": 24,
+    "name": "Think Python",
+    "title": "How to Think Like a Computer Scientist",
+    "image": "http://www.allendowney.com/wp/wp-content/uploads/2015/11/Screenshot-30.png",
+    "category": "Free",
+    "price": 0
+  }
+
+]
